@@ -1,6 +1,6 @@
-# My Analysis  Dashboard ✨
+# My Analysis Dashboard ✨
 
-## This Setup For Windows Command 
+## This Setup For LOCAL Windows Command 
 
 ## Setup Environment Streamlit with cmd/powershell
 ```
