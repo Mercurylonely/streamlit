@@ -16,3 +16,14 @@ Create File For Dashbord in Directory and than move to the Directory File
 
 streamlit run dashboard.py
 ```
+
+
+## This How To Run Colab
+
+```
+Run ALl Code in file.ipnyb
+
+Open Url and input External IP on code : !streamlit run app.py & npx localtunnel --port 8501
+
+Submit
+```
